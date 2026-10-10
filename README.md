@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try Mochi](https://mochi-ai-chatbot-vtuyn3ciosjrnrlyfimbbf.streamlit.app)**
+👉 **[Try Mochi](https://mochi-ai-chatbot-vtuyn3ciosjrnrlyfmibbf.streamlit.app/)**
 
 ---
 
